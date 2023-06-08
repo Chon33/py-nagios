@@ -1,3 +1,3 @@
-rich
-psutils
-py-cpuinfo
+rich==13.4.1
+psutil==5.9.5
+py-cpuinfo==9.0.0
